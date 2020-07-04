@@ -1,0 +1,12 @@
+---
+:id: 39014780
+:submitters:
+- :name: Matthew Liu
+  :email: matliu@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-06-12 19:06:13.221169000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-06-12 12:06:13.221169000 Z
+:status: processed
+:score: 13.5
